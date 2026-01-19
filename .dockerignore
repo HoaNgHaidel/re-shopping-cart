@@ -1,0 +1,41 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# IDE
+.idea
+.vscode
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings
+
+# Build outputs
+build/
+.gradle
+gradle/
+gradlew
+gradlew.bat
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Documentation
+*.md
+README*
+
+# CI/CD
+.github/
+ci-cd.yaml
+
+# Test files
+src/test/
+
+# OS
+.DS_Store
+Thumbs.db
