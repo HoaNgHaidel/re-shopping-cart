@@ -16,9 +16,9 @@
 # Build outputs
 build/
 .gradle
-gradle/
-gradlew
-gradlew.bat
+!gradle/
+!gradlew
+!gradlew.bat
 
 # Environment files
 .env
